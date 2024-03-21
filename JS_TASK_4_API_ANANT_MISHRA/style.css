@@ -1,0 +1,41 @@
+::placeholder {
+    opacity: 0.4 !important;
+}
+
+i {
+    cursor: pointer !important;
+}
+
+td,
+th,
+tr {
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+}
+
+.inside-table {
+    width: 100%;
+    background: #8eadbf2e;
+    color: black;
+    border: 1px solid black;
+}
+
+.inside-table-tbody {
+    text-align: center;
+}
+
+.table-tr {
+    border: 1px solid black;
+}
+/* #student-table{
+    background: hsla(233, 100%, 90%, 1) !important;
+
+    background: linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%) !important;
+    
+    background: -moz-linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%) !important;
+    
+    background: -webkit-linear-gradient(90deg, hsla(233, 100%, 90%, 1) 0%, hsla(0, 0%, 89%, 1) 100%) !important;
+    
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#CAD0FF", endColorstr="#E3E3E3", GradientType=1 );
+} */
